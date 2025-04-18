@@ -1,0 +1,11 @@
+## Interface: 30300
+## Title: TrueRP - Database
+## Notes: Base de données TrueRP
+## Author: Matthieu Albertelli
+## Version: 0.1
+## SavedVariables: TrueRP_DB
+
+libs\Ace3\LibStub\LibStub.xml
+libs\Ace3\AceEvent-3.0\AceEvent-3.0.xml
+events.lua
+db.lua
