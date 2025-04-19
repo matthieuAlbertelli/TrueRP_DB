@@ -32,5 +32,5 @@ Développé par Matthieu ALBERTELLI.
 ---
 
 *Fait partie des projets:
-- [TrueRP](https://github.com/matthieuAlbertelli/TrueRP_PortraitSelector)
-- [TrueRP](https://github.com/matthieuAlbertelli/TrueRP_PortraitElvUI)
+- [TrueRP Portrait Selector](https://github.com/matthieuAlbertelli/TrueRP_PortraitSelector)
+- [TrueRP Portrait ElvUI](https://github.com/matthieuAlbertelli/TrueRP_PortraitElvUI)
